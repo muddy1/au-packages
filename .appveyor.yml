@@ -12,36 +12,36 @@ branches:
 
 environment:
   # Set au version to use or omit to use the latest. Specify branch name to use development version from Github
-  au_version:
+  au_version: 1.0.0
   au_push: true
   # Force test: use 1 to test all, or N to split testing into N groups
   au_test_groups: 1
 
   # Github token to commit pushed packages to repository
-  github_user_repo: {github_user}/{repository}
+  github_user_repo: muddy1/au-packages 
   github_api_key:
-    secure: YOUR_GITHUB_API_KEY_HERE_ENCRYPTED_STRING #https://ci.appveyor.com/tools/encrypt
+    secure: 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 #https://ci.appveyor.com/tools/encrypt
 
 
   # Mail credentials - for error notifications
   mail_user:
-    secure: YOUR_EMAIL_ACCOUNT_HERE_ENCRYPTED_STRING #https://ci.appveyor.com/tools/encrypt
+    secure: QHaFw2fI/zpdrqYOPvxPRGvyVvrdvHBtHupg0AWZTMg= #https://ci.appveyor.com/tools/encrypt
   mail_pass:
-    secure: YOUR_EMAIL_PASSWORD_HERE_ENCRYPTED_STRING #https://ci.appveyor.com/tools/encrypt
+    secure: Q/gItkOneAUVGHsz2ZIgrXeE65vnHT3WakDfMujO4Dw= #https://ci.appveyor.com/tools/encrypt
   mail_server: smtp.gmail.com
   mail_port: 587
   mail_enablessl: true
 
   # ID of the gist used to save run results - create a gist under the github_user (secret or not) and grab the id - https://gist.github.com/name/id
   # Optional, leave empty to create anonymous gist
-  gist_id:
+  gist_id: bb3bb42f56a6c8968fab85ecb58ff02d
 
   # Force test: gist id for test results
-  gist_id_test:
+  gist_id_test: 769b47cf3f4132723012e5ed83c4d3a9
 
   # Chocolatey API key - to push updated packages
   api_key:
-    secure: YOUR_CHOCO_API_KEY_HERE_ENCRYPTED_STRING # https://ci.appveyor.com/tools/encrypt
+    secure: SAQ7hRBNsqyJJygeAIRR5LiSzxcjE7yhC0y4/xUOz5C8IDp1vLtVGiMkTj6vPyYO # https://ci.appveyor.com/tools/encrypt
 
 init:
 - git config --global user.email "chocolatey@realdimensions.net"
