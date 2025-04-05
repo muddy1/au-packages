@@ -4,19 +4,21 @@
   <metadata>
     <id>live2d-cubism</id>
     <version>5.2.02</version>
+	<copyright>© 2010 - 2025 Live2D Inc.</copyright>
+	<iconUrl>https://cdn.jsdelivr.net/gh/muddy1/au-packages@master/manual/live2d/cubism-logo.png</iconUrl>
+	<tags>live2d animation art</tags>
     <packageSourceUrl>https://cubism.live2d.com/editor/bin/Live2D_Cubism_Setup_5.2.02.exe</packageSourceUrl>
     <owners>muddy1</owners>
     <title>Live2d Cubism</title>
     <authors>Live2d Inc.</authors>
 	<projectUrl>https://www.live2d.com/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/muddy1/au-packages@master/manual/live2d/cubism-logo.png</iconUrl>
-    <copyright>© 2010 - 2025 Live2D Inc.</copyright>
 	<mailingListUrl>https://community.live2d.com/</mailingListUrl>
 	<docsUrl>https://docs.live2d.com/en/</docsUrl>
 	<bugTrackerUrl>https://community.live2d.com/discussions/tagged/bug/p1</bugTrackerUrl>
-    <tags>live2d animation art</tags>
-    <summary>Software that directly animates your original drawings.</summary>
+	<licenseUrl>https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_en.html</licenseUrl>
+	<summary>Software that directly animates your original drawings.</summary>
     <description>Live2D is the industry standard tool for 2D real-time expression, chosen by professional creators around the world. It is widely used in mobile apps, console games, VTuber streaming, and animations.</description>
+	<releaseNotes></releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

@@ -4,6 +4,8 @@
   <metadata>
     <id></id>
     <version></version>
+	<iconUrl></iconUrl>
+	<tags></tags>
     <packageSourceUrl></packageSourceUrl>
     <owners></owners>
     <title></title>
@@ -12,9 +14,9 @@
 	<mailingListUrl></mailingListUrl>
 	<docsUrl></docsUrl>
 	<bugTrackerUrl></bugTrackerUrl>
-    <iconUrl></iconUrl>
+	<licenseUrl></licenseUrl>
+	<releaseNotes></releaseNotes>
     <copyright></copyright>
-    <tags></tags>
     <summary></summary>
     <description></description>
   </metadata>
