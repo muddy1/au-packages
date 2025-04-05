@@ -5,7 +5,7 @@
     <id>vroid-studio</id>
     <version>2.1.5</version>
     <packageSourceUrl>https://vroid.com/</packageSourceUrl>
-    <owners>pixiv</owners>
+    <owners>muddy1</owners>
     <title>Vroid Studio</title>
     <authors>pixiv</authors>
 	<projectUrl>https://vroid.com/</projectUrl>
@@ -15,6 +15,9 @@
 
     Minor corrections
 </releaseNotes>
+    <mailingListUrl></mailingListUrl>
+	<docsUrl></docsUrl>
+	<bugTrackerUrl></bugTrackerUrl>
 	<licenseUrl>https://policies.pixiv.net/en.html#vroidhub</licenseUrl>
 	<tags>3D model modeling art studio</tags>
     <summary>3D modeling software</summary>
