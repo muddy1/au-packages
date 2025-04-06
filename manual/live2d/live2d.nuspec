@@ -15,10 +15,10 @@
 	<mailingListUrl>https://community.live2d.com/</mailingListUrl>
 	<docsUrl>https://docs.live2d.com/en/</docsUrl>
 	<bugTrackerUrl>https://community.live2d.com/discussions/tagged/bug/p1</bugTrackerUrl>
+	<releaseNotes>https://docs.live2d.com/en/cubism-editor-manual/new-function5-2/</releaseNotes>
 	<licenseUrl>https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_en.html</licenseUrl>
 	<summary>Software that directly animates your original drawings.</summary>
     <description>Live2D is the industry standard tool for 2D real-time expression, chosen by professional creators around the world. It is widely used in mobile apps, console games, VTuber streaming, and animations.</description>
-	<releaseNotes></releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

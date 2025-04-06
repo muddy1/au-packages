@@ -1,5 +1,4 @@
-﻿
-$ErrorActionPreference = 'Stop'
+﻿$ErrorActionPreference = 'Stop'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'https://download.vroid.com/dist/WIQ8Wy7INR/VRoidStudio-v2.1.5-win.exe'
 

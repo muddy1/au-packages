@@ -4,15 +4,20 @@
   <metadata>
     <id>touch-portal</id>
     <version>4.4</version>
-    <packageSourceUrl>https://www.touch-portal.com/</packageSourceUrl>
-    <owners>Rils</owners>
-    <title>touch portal</title>
+	<iconUrl>https://cdn.jsdelivr.net/gh/muddy1/au-packages@master/manual/touch-portal/touch-portal.png</iconUrl>
+	<tags>obs remote control pc</tags>
+    <packageSourceUrl>https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe</packageSourceUrl>
+    <owners>muddy1</owners>
+    <title>Touch Portal</title>
     <authors>Rils</authors>
 	<projectUrl>https://www.touch-portal.com/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/muddy1/chocolatey-packages@master/touch-portal/touch-portal.png</iconUrl>
+	<mailingListUrl>https://www.touch-portal.com/faq.php</mailingListUrl>
+	<docsUrl>https://www.touch-portal.com/docs/</docsUrl>
+	<bugTrackerUrl>https://www.touch-portal.com/faq.php</bugTrackerUrl>
+	<licenseUrl>https://www.touch-portal.com/Touch-Portal-Branding-and-Press.php</licenseUrl>
+	<releaseNotes>https://www.touch-portal.com/blog/post/version-change-log/change-log-version-4-0.php</releaseNotes>
     <copyright>Touch Portal - ©2018-2025 Rils</copyright>
-    <tags>remote control</tags>
-    <summary>Touch Portal: The macro multi action remote control </summary>
+    <summary>Touch Portal: The macro multi action remote control</summary>
     <description>Control your desktop software and machine with your mobile device</description>
   </metadata>
   <files>
