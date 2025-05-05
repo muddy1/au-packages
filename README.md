@@ -1,14 +1,6 @@
-~~~
-<!-- EDIT ME-->
-
-[![](https://ci.appveyor.com/api/projects/status/github/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/YOUR_GITHUB_USERNAME_HERE/chocolatey-packages)
-[Update status](https://gist.github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GIST_ID_HERE)
-[![](http://transparent-favicon.info/favicon.ico)](#)
-[chocolatey/YOUR_CHOCOLATEY_USERNAME_HERE](https://chocolatey.org/profiles/YOUR_CHOCOLATEY_USERNAME_HERE)
-
-<!-- EDIT ME-->
-<!-- REMOVE THE squiggles "~" surrounding this (this should not be a code block) -->
-~~~
+[![Chocolatey Profile](https://img.shields.io/badge/Chocolatey_Profile-muddy1-black)](https://chocolatey.org/profiles/muddy1)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/github/muddy1/au-packages?svg=true)](https://ci.appveyor.com/project/muddy1/au-packages)
+[![Update Status](https://img.shields.io/badge/Update-Status-black.svg)](https://gist.github.com/muddy1/d0423765295ff62549cb26b438979039)
 
 This repository contains [chocolatey automatic packages](https://chocolatey.org/docs/automatic-packages).  
 The repository is setup so that you can manage your packages entirely from the GitHub web interface (using AppVeyor to update and push packages) and/or using the local repository copy.
